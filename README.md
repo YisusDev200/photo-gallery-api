@@ -79,6 +79,10 @@ Esta es una API básica para gestionar fotos, que incluye operaciones CRUD (Crea
     - `id` (string): ID de la foto.
   - Respuesta: Mensaje de éxito o error.
 
+## frontend
+
+- https://github.com/YisusDev200/flutter_photo_gallery
+
 ## Estructura de Archivos
 
 - `index.js`: Punto de entrada de la aplicación.
